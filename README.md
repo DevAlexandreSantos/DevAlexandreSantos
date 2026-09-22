@@ -19,13 +19,6 @@
 
 <br/>
 
-<div>
-  <a href="https://github.com/DevAlexandreSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAlexandreSantos&show_icons=false&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexandreSantos&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-
 ## 🧭 Sobre mim
 
 Vim da operação, não da faculdade de ciência da computação — e isso muda como eu penso sobre software.
