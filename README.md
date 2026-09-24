@@ -21,13 +21,13 @@
 
 ## 🧭 Sobre mim
 
-Vim da operação, não da faculdade de ciência da computação — e isso muda como eu penso sobre software.
+Vim da operação, não da faculdade de ciência da computação e isso muda como eu penso sobre software.
 
-Passei anos resolvendo problema de verdade em operação logística em empresas como **Amazon**, **Mercado Livre**, **Samsung** e **Shopee**: prazo apertado, processo quebrado, gente contando com o sistema funcionar. Hoje eu aplico essa mesma lógica pra construir interfaces — só que agora o "estoque" é componente e o "prazo" é deploy.
+Passei anos resolvendo problema de verdade em operação logística em empresas como **Amazon**, **Mercado Livre**, **Samsung**, **Shopee** e outras: prazo apertado, processo quebrado, gente contando com o sistema funcionar. Hoje eu aplico essa mesma lógica pra construir interfaces — só que agora o "estoque" é componente e o "prazo" é deploy.
 
 Toquei meu próprio negócio de sublimação desde 2020, então sei o que é tirar uma ideia do papel sozinho, do zero, sem rede de segurança. É essa mentalidade que eu trago pra cada projeto que subo aqui.
 
-Hoje me formando em **Engenharia de Software**, construindo projeto atrás de projeto pra transformar experiência de operação em código.
+Hoje estou cursando **Bacharelado em Engenharia de Software** e formado em **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, construindo projeto atrás de projeto pra transformar experiência de operação em código.
 
 ```javascript
 const alexandre = {
